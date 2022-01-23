@@ -10,3 +10,28 @@ nav,h1{
 .packeges-icon i{
     color: #5243C2;
 }
+.badge{
+    top: 0;
+    start: 100px;
+}
+#hot-items-p{
+    color: #fff;
+}
+footer{
+    background-color: #212529;
+    color: #fff;
+}
+.get-the-apple{
+    font-size: 10px;
+}
+.get-the-apple-div{
+    line-height: 15px;
+   
+}
+.footer-apple{
+    background-color: #000000;
+}
+.footer-anchor{
+    text-decoration: none;
+    color: #fff;
+}
