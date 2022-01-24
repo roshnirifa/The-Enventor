@@ -4,22 +4,39 @@ nav,h1{
 .carousel-img{
     height: 550px;
 }
+/* packages */
 
 .packages p{
-    color: #848199;
-    
-    
+    color: #848199; 
 }
 .packeges-icon i{
     color: #5243C2;
 }
-.badge{
-    top: 0;
-    start: 100px;
-}
+
 #hot-items-p{
     color: #fff;
 }
+/* frequently asked questions */
+.qus-heading{
+    margin-top: 114px;
+    margin-bottom: 63px;
+}
+
+/* contact-us */
+.contact-us{
+    background-image: url(images/img-2.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    
+    }
+    .contact-us-text{
+       color: yellow;
+       font-weight: bold;
+       
+    }
+    
+
+/* footer */
 footer{
     background-color: #212529;
     color: #fff;
@@ -37,16 +54,4 @@ footer{
 .footer-anchor{
     text-decoration: none;
     color: #fff;
-}
-/* contact-us */
-.contact-us{
-background-image: url(images/img-2.jpg);
-background-repeat: no-repeat;
-background-position: center;
-
-}
-.contact-us-text{
-   color: yellow;
-   font-weight: bold;
-   
 }
