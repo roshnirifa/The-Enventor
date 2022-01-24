@@ -1,6 +1,9 @@
 nav,h1{
     font-family: 'Poppins', sans-serif;
 }
+.carousel-img{
+    height: 550px;
+}
 
 .packages p{
     color: #848199;
@@ -34,4 +37,16 @@ footer{
 .footer-anchor{
     text-decoration: none;
     color: #fff;
+}
+/* contact-us */
+.contact-us{
+background-image: url(images/img-2.jpg);
+background-repeat: no-repeat;
+background-position: center;
+
+}
+.contact-us-text{
+   color: yellow;
+   font-weight: bold;
+   
 }
